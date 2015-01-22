@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Resume</title>
+<link href="../my-resume/css/960_12_col.css" rel="stylesheet" type="text/css">
+<link href="../my-resume/css/reset.css" rel="stylesheet" type="text/css">
+<link href="../my-resume/css/resume.css" rel="stylesheet" type="text/css">
+<!--[if IE]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+</head>
+
+<body>
+<div class="container_12">
+	
+		<header>
+
+		<div class="grid_3"><img src="C:/Users/Monica Segura/Desktop/my-resume/img/MonicaSegura.jpg" width="86" height="92" alt=""/></div>
+		<div class="grid_9"><h1>Monica G. Segura</h1></div>
+		<p>Minneapolis, Minnesota <br>
+		   (612) 986-7520<br>
+		   <a href="mailto:seguram27@gmail.com">seguram27@gmail.com</a>
+		</p>
+		</header>
+        <section>
+        <!--Begin Career Objective Section-->
+        <div class="sectionResume">
+          <div class="grid_3 sectionHeadings">
+           <h2>Career Objectives</h2>
+          </div>
+          <div class="grid_9">
+           <p style="padding-top:5px;">As a bright ambitious person, I enjoy working in a fast paced, highly motivating position where I can assist others while challenging and expanding my knowledge and understanding of the task at hand. I am seeking a position as a software engineer to utilize my skills and be able to advance my career within a company as well as to allow me the opportunity to gain additional skills and experience.</p>
+          </div>
+        </div>
+           <!--End Career Objective Section-->
+           
+           <!--Begin Work Experience-->
+           <div class="sectionResume">
+           <div class="grid_3 sectionHeadings"><h2>work experience</h2></div>
+           <div class="grid_9"><h3>City of Minneapolis - Office Support Specialist (Temporary)<br> 
+           <span style="font-size:12px; color:#933">Minneapolis, MN 2014-2015</span></h3>
+           <p style="margin-bottom:10px;">I assisted the Election Judge Coordinator in recruiting and managing Election Judges, including the preparation of training classes.  I answered phone calls and emails regarding Elections and Election Judges, and assisted with any other needs around the Elections office. I performed a wide range of clerical duties. I collaborate with team members to compile election statistics and evaluations. I edit and help write the monthly newsletter. I process payroll for all election judges who server on Election Day.</p>
+           
+           <h3>Wells Fargo - Teller (Full-Time)<br> 
+           <span style="font-size:12px; color:#933">Minneapolis, MN 2008-20010</span></h3>
+           <p>I provided outstanding customer service in Spanish/English. I computed, classified, and recorded numerical data to keep financial records updated. I performed various combination of routine calculating, posting, and verified duties to obtain primary financial data for use to maintain accounting records. I checked the accuracy of figures, calculations, and postings relating to financial transactions by other employees. I provided customer information to requested inquiries about products and services; handled and resolved customer complaints.</p>
+           </div>
+           </div>
+           <!--End Work Experience-->
+           
+           <!--Begin Education-->
+           <div class="sectionResume">
+           <div class="grid_3 sectionHeadings"><h2>education</h2></div>
+           <div class="grid_9">
+             <h3>Roosevelt High School<br> 
+             <span style="font-size:12px; color:#933">Minneapolis, MN 2002-2006</span></h3>
+           <p> High School Diploma</p>
+           </div>
+           </div>
+           
+           
+           <!--End Education-->
+           
+           <!--Begin Software Skills-->
+           <div class="sectionResume">
+           <div class="grid_3 sectionHeadings"><h2>Skills</h2></div>
+           <div class="grid_9">
+           <p> •Excellent communication (English/Spanish) and organizational skills</p>
+           <p> •Proficient in Excel, Word, PowerPoint, Access, Outlook, Publisher, QuickBooks</p>
+           <p> •Able to work in a high volume environment</p>
+           <p> •Strong interpersonal, detail oriental, and multitasking skills </p>
+           </div>
+           </div>
+           
+           <!--End Software Skills-->
+           
+           
+           </section>
+	</div>
+</body>
+</html>
