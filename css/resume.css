@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:#222;
+	font-family:"Trebuchet MS", Arial, Helvetica, Sans Sarif; 
+}
+
+header {
+	background:#2f3a42;
+}
+
+header_img {
+	background:#699;
+	padding:8px;
+	margin:10px 0;
+	border:5px solid #fff;
+	float:right;
+}
+
+header h1 {
+	color:#fff;
+	font-size:24px;
+	text-shadow:2px 2px 0 #000;
+	margin-top:15px;
+}	
+
+header p {
+	color:#000;
+	font-size:14px;
+	line-height:16px;
+	text-shadow:1px 1px 0 #000;
+	margin-top:7px;
+}
+
+a:link {
+	color:#fc9;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#699;
+}
+
+a:visited {
+	color:#fff
+	}
+	 
+section {
+	background:#afbac9;
+	margin-top:5px;
+	padding:10px 0;	
+}
+
+section h2 {
+	text-align:right;
+	font-size:14px;
+	text-transform:uppercase;
+	color:#fff;
+	text-shadow::1px 1px 0 #000;
+	padding-right::13px;
+	
+}
+
+section p {
+	font-size:14px;
+	line-height:14px;	
+}
+
+.sectionHeadings {
+	background:#2f3a42;
+	border-top:1px solid #000;
+	height:22px;
+	line-height:22px;
+}
+
+
+.sectionResume {
+	padding:10px 0;
+	overflow:hidden;	
+}
+
+section h3 {
+	font-size:16px;
+	line-height:16px;
+	text-transform:uppercase;
+	padding-top:8px;
+	}
+
